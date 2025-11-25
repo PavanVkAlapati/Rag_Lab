@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "What is this document about?",
+    "expected_answer": "It describes the architecture of a vanilla RAG system."
+  },
+  {
+    "id": 2,
+    "question": "Which vector database is used?",
+    "expected_answer": "Chroma"
+  }
+]

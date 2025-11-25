@@ -1,0 +1,30 @@
+# Core frameworks
+fastapi
+uvicorn
+streamlit
+
+# LLM + Embeddings
+openai
+cohere
+sentence-transformers
+
+# Vector Databases
+qdrant-client
+chromadb
+faiss-cpu
+
+# Chunking & Parsing
+python-docx
+pdfplumber
+
+# Environment & Config
+python-dotenv
+
+# Data handling
+pandas
+openpyxl
+numpy
+
+# HTTP & Utils
+requests
+pydantic
